@@ -2,7 +2,7 @@
 
 Fork from [Resinchem](https://github.com/Resinchem/ESP-Parking-Assistant)
 
-This version is a dewifid version. Uses ESP8266 board, WS2812b LED strips and a TFMini sensor.
+This version is a dewifid version. Uses ESP8266 board, WS2812b LED strips and a TFMini-S sensor.
 
 I had no wifi reception in my garage which left the non secure access point open.
 So simply removed everything wifi related to make this work quickly.
